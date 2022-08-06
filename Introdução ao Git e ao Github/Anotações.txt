@@ -1,0 +1,16 @@
+*Navegação*
+Dir= Listar as pastas do PC
+Dc / = navegar entre as pastas 
+Dc / nome da pasta
+Dls = Limpar tudo 
+Dc .. volta para a lista de pastas 
+/>mkdir nome criar pasta 
+echo = repente oq está escrito
+del = deletar todos arquivos 
+\>rmdir (nome) /S /Q deletar pasta 
+--------------------------------------------------
+Git 
+Openssl sha1nome cipritografar 
+(Blobs = básico armazena o sha
+trees = arvore armazena o arquivo
+commits = agrupa tudo)
